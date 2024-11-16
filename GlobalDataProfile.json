@@ -1,0 +1,40 @@
+{
+	"lx": {
+		"name": "老邢物流",
+		"address": [{
+				"addressName": "邯郸市邯山区华耀城汽摩配市场东八门老邢物流",
+				"latitude": "36.556037",
+				"longitude": "114.509316"
+			}
+		],
+		"path": [{
+				"start": "邯郸",
+				"end":"成安",
+				"place": "河沙镇、茶棚、南上宋、代召、邢胡庄、堤南卜、聂庄、林里堡、成安、北豆公、连送、太平、柳二营"
+			},
+			{
+				"start": "邯郸",
+				"end":"肥乡",
+				"place": "南文庄、商城、长巷、秦家营、朗堡、何横城、天台山、北中卜、辛安镇、白落卜、潘寨、大西韩、北漳、杜汤卜、"
+			}
+		],
+		"phone": [{
+				"title": "联系方式一",
+				"number": "13613200891"
+			},
+			{
+				"title": "紧急联系方式",
+				"number": "13613200891"
+			}
+		],
+		"desc": "描述",
+		"images": [
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+			"https://gitee.com/EricKiku/tool-library/raw/master/door.jpg",
+		]
+	}
+}
